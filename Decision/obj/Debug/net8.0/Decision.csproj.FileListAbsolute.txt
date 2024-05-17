@@ -1,0 +1,14 @@
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\bin\Debug\net8.0\Decision.exe
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\bin\Debug\net8.0\Decision.deps.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\bin\Debug\net8.0\Decision.runtimeconfig.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\bin\Debug\net8.0\Decision.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\bin\Debug\net8.0\Decision.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.AssemblyInfo.cs
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\refint\Decision.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\Decision.genruntimeconfig.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Decision\obj\Debug\net8.0\ref\Decision.dll
