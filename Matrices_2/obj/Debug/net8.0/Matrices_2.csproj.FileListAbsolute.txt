@@ -1,0 +1,15 @@
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.AssemblyInfo.cs
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.sourcelink.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\bin\Debug\net8.0\Matrices_2.exe
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\bin\Debug\net8.0\Matrices_2.deps.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\bin\Debug\net8.0\Matrices_2.runtimeconfig.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\bin\Debug\net8.0\Matrices_2.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\bin\Debug\net8.0\Matrices_2.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\refint\Matrices_2.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\Matrices_2.genruntimeconfig.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Matrices_2\obj\Debug\net8.0\ref\Matrices_2.dll
