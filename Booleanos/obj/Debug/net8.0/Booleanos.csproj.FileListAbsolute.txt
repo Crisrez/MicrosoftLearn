@@ -1,0 +1,15 @@
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\bin\Debug\net8.0\Booleanos.exe
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\bin\Debug\net8.0\Booleanos.deps.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\bin\Debug\net8.0\Booleanos.runtimeconfig.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\bin\Debug\net8.0\Booleanos.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\bin\Debug\net8.0\Booleanos.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.AssemblyInfo.cs
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.sourcelink.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\refint\Booleanos.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\Booleanos.genruntimeconfig.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Booleanos\obj\Debug\net8.0\ref\Booleanos.dll
