@@ -1,0 +1,15 @@
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\bin\Debug\net8.0\While.exe
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\bin\Debug\net8.0\While.deps.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\bin\Debug\net8.0\While.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\bin\Debug\net8.0\While.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.sourcelink.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\While\obj\Debug\net8.0\ref\While.dll
