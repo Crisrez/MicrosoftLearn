@@ -1,14 +1,15 @@
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\bin\Debug\net8.0\MicrosoftLearn.exe
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\bin\Debug\net8.0\MicrosoftLearn.deps.json
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\bin\Debug\net8.0\MicrosoftLearn.runtimeconfig.json
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\bin\Debug\net8.0\MicrosoftLearn.dll
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\bin\Debug\net8.0\MicrosoftLearn.pdb
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.AssemblyInfoInputs.cache
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.AssemblyInfo.cs
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.dll
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\refint\MicrosoftLearn.dll
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.pdb
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\MicrosoftLearn.genruntimeconfig.cache
-C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\obj\Debug\net8.0\ref\MicrosoftLearn.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\bin\Debug\net8.0\MicrosoftLearn.exe
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\bin\Debug\net8.0\MicrosoftLearn.deps.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\bin\Debug\net8.0\MicrosoftLearn.runtimeconfig.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\bin\Debug\net8.0\MicrosoftLearn.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\bin\Debug\net8.0\MicrosoftLearn.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.AssemblyInfo.cs
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.sourcelink.json
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\refint\MicrosoftLearn.dll
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.pdb
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\MicrosoftLearn.genruntimeconfig.cache
+C:\Users\usuario\Downloads\CRZ\Programacion\C#\MicrosoftLearn\Metodos y Clases\obj\Debug\net8.0\ref\MicrosoftLearn.dll
