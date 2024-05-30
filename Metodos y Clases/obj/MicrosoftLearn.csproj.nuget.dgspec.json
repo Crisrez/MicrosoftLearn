@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj": {}
+    "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj": {
+    "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj",
         "projectName": "MicrosoftLearn",
-        "projectPath": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj",
-        "packagesPath": "C:\\Users\\Krisrez\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Metodos y Clases\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Metodos y Clases\\MicrosoftLearn.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Metodos y Clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Krisrez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
