@@ -196,62 +196,63 @@ void AddNewPet()
     }
 
     Console.WriteLine($"Tenemos {petCount} mascotas que buscan un hogar.");
-    Console.WriteLine("Desea cargar una mascota nueva? (y/n)");
 
-    do
+    while (petCount < maxPets && anotherPet != "n")
     {
-        readResult = Console.ReadLine();
+        Console.WriteLine("Desea cargar una mascota nueva? (y/n)");
 
-        if (readResult != null)
+        do
         {
-            anotherPet = readResult.ToLower();
-        }
+            readResult = Console.ReadLine();
 
-    } while (anotherPet != "y" && anotherPet != "n");
-
-    if (petCount <= maxPets && anotherPet == "y")
-    {
-        Console.WriteLine("Ingrese la informacion del nuevo animal: ");
-
-        for (int j = 1; j < 6; j++)
-        {
-            Console.Write($"{ourAnimals[petCount, j]}");
-
-            do
+            if (readResult != null)
             {
-                readResult = Console.ReadLine();
+                anotherPet = readResult.ToLower();
+            }
 
-                if (readResult != null)
+        } while (anotherPet != "y" && anotherPet != "n");
+
+        if (petCount <= maxPets && anotherPet == "y")
+        {
+            Console.WriteLine("\nIngrese la informacion del nuevo animal: ");
+
+            for (int j = 1; j < 6; j++)
+            {
+                Console.Write($"{ourAnimals[petCount, j]}");
+
+                do
                 {
-                    Console.WriteLine(readResult);
-                    ourAnimals[petCount, j] += readResult.ToLower();
-                }
+                    readResult = Console.ReadLine();
 
-            } while (readResult == null);
+                    if (readResult != null)
+                    {
+                        ourAnimals[petCount, j] += readResult.ToLower();
+                    }
 
+                } while (readResult == null);
+            }
+            
+            if (ourAnimals[petCount, 1].Contains("cat"))
+            {
+                ourAnimals[petCount, 0] += "c" + (petCount + 1);
+                petCount++;
+            }
+            else if (ourAnimals[petCount, 1].Contains("dog"))
+            {
+                ourAnimals[petCount, 0] += "d" + (petCount + 1);
+                petCount++;
+            }
         }
+        Console.WriteLine();
     }
     
-    else if (petCount == maxPets)
+    if (petCount >= maxPets)
     {
-        Console.WriteLine("No tenemos espacio suficiente para recibir nuevas mascotas.");
+        Console.WriteLine("\nYa no tenemos espacio suficiente para recibir nuevas mascotas.\n");
     }
 
-    if (ourAnimals[petCount, 1].Contains("cat"))
-    {
-        petCount++;
-        ourAnimals[petCount, 0] += "c" + petCount;
-    }
-    else if (ourAnimals[petCount, 1].Contains("dog"))
-    {
-        petCount++;
-        ourAnimals[petCount, 0] += "d" + petCount;
-    }
-
-    Console.WriteLine();
     Console.WriteLine("Press the Enter key to continue");
     Console.ReadLine();
-
 
 };
 

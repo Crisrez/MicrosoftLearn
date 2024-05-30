@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj": {}
+    "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj": {
+    "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj",
         "projectName": "Seleccion_e_Iteracion",
-        "projectPath": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Downloads\\CRZ\\Programacion\\C#\\MicrosoftLearn\\Seleccion_e_Iteracion\\obj\\",
+        "projectPath": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Seleccion_e_Iteracion\\Seleccion_e_Iteracion.csproj",
+        "packagesPath": "C:\\Users\\Krisrez\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuarios\\Krisrez\\Documents\\Programación\\C#\\Cursos\\MicrosoftLearn\\Seleccion_e_Iteracion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Krisrez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
