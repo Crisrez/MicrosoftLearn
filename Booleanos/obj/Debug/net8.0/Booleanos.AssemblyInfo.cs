@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Booleanos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0b2bbc0442b63b08fa9b6ae1962ac1ba291e77f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d80d1944f0e212ff6ea0b2c85cec2f27ebc43fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Booleanos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Booleanos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
